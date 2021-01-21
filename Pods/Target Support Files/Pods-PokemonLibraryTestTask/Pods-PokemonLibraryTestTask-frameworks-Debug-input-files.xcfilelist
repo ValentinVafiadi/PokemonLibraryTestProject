@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-PokemonLibraryTestTask/Pods-PokemonLibraryTestTask-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework
+${BUILT_PRODUCTS_DIR}/SwiftGifOrigin/SwiftGifOrigin.framework

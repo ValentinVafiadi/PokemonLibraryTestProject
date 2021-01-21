@@ -1,0 +1,20 @@
+PODS:
+  - Kingfisher (6.0.1)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - Kingfisher (~> 6.0)
+  - SwiftGifOrigin (~> 1.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: cac04f454ae136b16290905614e8187b71807753
+
+COCOAPODS: 1.10.1
